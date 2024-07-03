@@ -1,0 +1,1 @@
+Course: https://prometheus.org.ua/prometheus-plus/devops_and_kubernetes/
